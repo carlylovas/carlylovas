@@ -3,6 +3,8 @@ Markdowns for current projects available [here](https://carlylovas.github.io/)
 
 
 **Quick links**
+-   [Climate Adaptation Resource Hub for Fishing Communites: Understanding Fisheries Climate Impacts](https://gmri.org/projects/understanding-fisheries-climate-impacts/)
+  
 -   [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
 
 -   [Access and Adaptation in Northeast Marine Fisheries](https://carlylovas.github.io/mesg-permits/README.html)
