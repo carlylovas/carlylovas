@@ -3,6 +3,8 @@ Markdowns for current projects available [here](https://carlylovas.github.io/)
 
 
 **Quick links**
+-   [species.shifts package](https://github.com/carlylovas/species.shifts)
+
 -   [Climate Adaptation Resource Hub for Fishing Communites: Understanding Fisheries Climate Impacts](https://gmri.org/projects/understanding-fisheries-climate-impacts/)
   
 -   [Northeast Climate Adaptation](https://carlylovas.github.io/nclim_adaptation/data_exp.html)
